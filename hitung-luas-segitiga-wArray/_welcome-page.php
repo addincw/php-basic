@@ -1,0 +1,1 @@
+<h2>Hitung Luas Segitiga</h2>
